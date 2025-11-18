@@ -16,13 +16,13 @@
 
 ## 🚀 About Me
 
-I am a highly motivated **Frontend Developer** specializing in building elegant, high-performance, and scalable web applications. Leveraging core expertise in **React.js** and the full **MERN stack (MongoDB, Express, React, Node.js)**, I am dedicated to crafting seamless, functional, and aesthetically superior user experiences.
+I'm a **Frontend Developer** and **MERN Stack Specialist** who builds fast, responsive, and beautiful web applications. My goal is to create great user experiences using modern technology.
 
-* **Current Focus:** Developing and deploying robust, full-stack applications using innovative **MERN stack architecture**.
-* **Skill Expansion:** Actively integrating **Next.js** for server-side rendering and static generation, **TypeScript** for enhanced code quality and type safety, and mastering **advanced React design patterns**.
-* **Collaboration:** Seeking opportunities to **contribute to impactful open-source projects** and collaborate on meaningful development initiatives.
-* **Technical Expertise:** Proficient in **React, Node.js, Express.js, MongoDB**, and modern web development methodologies.
-* **Commitment:** Focused on delivering clean, maintainable code that directly contributes to business objectives.
+* **Core Skills:** **React.js** and the **MERN stack** (MongoDB, Express, React, Node.js).
+* **Current Goal:** Building full-stack projects and learning **Next.js** (for better performance) and **TypeScript** (for cleaner code).
+* **Open to:** Contributing to open-source projects and collaboration.
+* **I Use:** React, Node.js, Express, MongoDB, and modern web tools.
+* **Focus:** Writing clean, maintainable code that delivers results.
 ---
 
 ## 🛠️ Tech Arsenal

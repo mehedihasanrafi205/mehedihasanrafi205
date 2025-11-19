@@ -104,19 +104,7 @@ I'm a **Frontend Developer** and **MERN Stack Specialist** who builds fast, resp
   
 </div>
 
-<div align="center">
-  
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mehedihasanrafi205&theme=tokyonight"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mehedihasanrafi205&theme=tokyonight"/>
-  
-</div>
 
-<div align="center">
-  
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mehedihasanrafi205&theme=tokyonight"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mehedihasanrafi205&theme=tokyonight&utcOffset=6"/>
-  
-</div>
 
 <div align="center">
   

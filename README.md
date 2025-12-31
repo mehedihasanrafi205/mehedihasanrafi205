@@ -16,13 +16,12 @@
 
 ## 🚀 About Me
 
-I'm a **Frontend Developer** and **MERN Stack Specialist** who builds fast, responsive, and beautiful web applications. My goal is to create great user experiences using modern technology.
+I'm a **Full-Stack Web Developer** passionate about building fast, responsive, and user-focused web applications. My journey began with **HTML & CSS experimentation** and has grown into building real-world projects using **MERN** and **Next.js**.  
 
-* **Core Skills:** **React.js** and the **MERN stack** (MongoDB, Express, React, Node.js).
-* **Current Goal:** Building full-stack projects and learning **Next.js** (for better performance) and **TypeScript** (for cleaner code).
-* **Open to:** Contributing to open-source projects and collaboration.
-* **I Use:** React, Node.js, Express, MongoDB, and modern web tools.
-* **Focus:** Writing clean, maintainable code that delivers results.
+- **Core Skills:** React.js, Next.js, and the MERN stack (MongoDB, Express, React, Node.js)  
+- **Current Focus:** Learning TypeScript and optimizing full-stack projects for performance and scalability  
+- **Open to:** Collaborating on projects and contributing to open-source  
+- **Goal:** Crafting clean, maintainable, and efficient code with modern technologies  
 ---
 
 ## 🛠️ Tech Arsenal
@@ -72,10 +71,11 @@ I'm a **Frontend Developer** and **MERN Stack Specialist** who builds fast, resp
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mehedihasanrafi205&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedihasanrafi205&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-  
+  <!-- Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mehedihasanrafi205&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedihasanrafi205&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
 </div>
 
 ---
@@ -83,43 +83,13 @@ I'm a **Frontend Developer** and **MERN Stack Specialist** who builds fast, resp
 ## 🔥 Contribution Streak & Activity
 
 <div align="center">
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=mehedihasanrafi205&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=F59E0B&currStreakLabel=3B82F6)](https://git.io/streak-stats)
-  
-</div>
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehedihasanrafi205&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
 
----
+  <br/>
 
-## 📈 Repository & Contribution Stats
+  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mehedihasanrafi205&custom_title=Coding%20Activity&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center">
-  
-  ![Total Contributions](https://github-contributor-stats.vercel.app/api?username=mehedihasanrafi205&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117)
-  
-</div>
-
-<div align="center">
-  
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehedihasanrafi205&theme=tokyonight"/>
-  
-</div>
-
-
-
-<div align="center">
-  
-  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mehedihasanrafi205&custom_title=Contribution%20Activity&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=mehedihasanrafi205&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
-  
 </div>
 
 ---
@@ -127,11 +97,11 @@ I'm a **Frontend Developer** and **MERN Stack Specialist** who builds fast, resp
 ## 🌐 Let's Connect
 
 <div align="center">
-
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehedihasanrafi205/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mehedihasanrafi205)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mehedihasanrafi205.github.io/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehedihasanrafi205@gmail.com)
 
 </div>
 
@@ -139,9 +109,9 @@ I'm a **Frontend Developer** and **MERN Stack Specialist** who builds fast, resp
 
 <div align="center">
   
-  ### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
+  ### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House  
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=mehedihasanrafi205&color=blueviolet&style=for-the-badge)
+  ![Profile Views](https://komarev.com/ghpvc/?username=mehedihasanrafi205&color=blueviolet&style=for-the-badge) 
   
   **Thanks for visiting! Let's build something amazing together! 🚀**
   

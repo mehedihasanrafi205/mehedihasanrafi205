@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Banner/GitHub-Banner.png" alt="Mehedi Hasan Rafi - Frontend Developer Banner">
+  <img src="Benner/GitHub-Banner.png" alt="Mehedi Hasan Rafi - Frontend Developer Banner">
 </div>
 <div align="center">
   <h1>👋 Hey there! I'm Mehedi Hasan Rafi</h3>

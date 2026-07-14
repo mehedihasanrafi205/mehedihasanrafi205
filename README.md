@@ -1,81 +1,85 @@
 <div align="center">
-  <img src="Benner/GitHub-Banner.png" alt="Mehedi Hasan Rafi - Frontend Developer Banner">
-</div>
-<div align="center">
-  <h1>👋 Hey there! I'm Mehedi Hasan Rafi</h3>
+  <img src="Banner/GitHub-Banner.png" alt="Mehedi Hasan Rafi - Frontend Developer Banner" width="100%">
 </div>
 
-
 <div align="center">
+  <h1>👋 Hey there! I'm Mehedi Hasan Rafi</h1>
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%9A%80;React+%26+MERN+Stack+Specialist+%F0%9F%92%BB;Building+Modern+Web+Experiences+%E2%9C%A8)
-  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;MERN+Stack+%26+Next.js+Specialist+%F0%9F%92%BB;Building+Scalable+Web+Experiences+%E2%9C%A8)
 </div>
 
 ---
 
 ## 🚀 About Me
 
-I'm a **Full-Stack Web Developer** passionate about building fast, responsive, and user-focused web applications. My journey began with **HTML & CSS experimentation** and has grown into building real-world projects using **MERN** and **Next.js**.  
+I'm a passionate **Full-Stack Web Developer** dedicated to building fast, responsive, and user-centric web applications. Over time, my love for clean architecture has driven me to specialize in modern JavaScript/TypeScript frameworks and robust backend systems.
 
-- **Core Skills:** React.js, Next.js, and the MERN stack (MongoDB, Express, React, Node.js)  
-- **Current Focus:** Learning TypeScript and optimizing full-stack projects for performance and scalability  
-- **Open to:** Collaborating on projects and contributing to open-source  
-- **Goal:** Crafting clean, maintainable, and efficient code with modern technologies  
+- 🛠️ **Core Skills:** React.js, Next.js, TypeScript, PostgreSQL, Prisma, and the MERN stack (MongoDB, Express, Node.js).
+- ⚡ **Current Focus:** Deep diving into Advanced TypeScript, Prisma ORM, and database optimization.
+- 🎯 **Goal:** Crafting clean, highly maintainable, and efficient code while staying at the forefront of modern web technologies.
+- 🤝 **Open to:** Exciting project collaborations, open-source contributions, and tech discussions.
+
 ---
 
 ## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+### 💻 Frontend & State Management
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### Styling & UI Frameworks
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
-
-
-### Backend & Database
+### ⚙️ Backend, Databases & ORM
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 
-### Tools & Platforms
+### 🎨 Styling & UI Component Libraries
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🔧 Tools, Platforms & Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Beekeeper Studio](https://img.shields.io/badge/Beekeeper_Studio-FFCC00?style=for-the-badge&logo=beekeeper-studio&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Metrics & Core Languages
 
 <div align="center">
-  <!-- Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mehedihasanrafi205&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedihasanrafi205&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
+  <!-- Stable GitHub Summary Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehedihasanrafi205&theme=tokyonight" height="180" alt="GitHub Profile Details" />
+  
+  <!-- Bulletproof Interactive Most Used Languages Block -->
+  <p align="center">
+    <br/>
+    <b>Most Used Core Languages & Technologies Distribution:</b><br/><br/>
+    <img src="https://img.shields.io/badge/JavaScript-60%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS">
+    <img src="https://img.shields.io/badge/TypeScript-25%25-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TS">
+    <img src="https://img.shields.io/badge/HTML%2FCSS-15%25-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML">
+  </p>
 </div>
 
 ---
@@ -85,11 +89,10 @@ I'm a **Full-Stack Web Developer** passionate about building fast, responsive, a
 <div align="center">
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehedihasanrafi205&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
-
-  <br/>
+  
+  <br/><br/>
 
   [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mehedihasanrafi205&custom_title=Coding%20Activity&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 </div>
 
 ---
@@ -109,8 +112,8 @@ I'm a **Full-Stack Web Developer** passionate about building fast, responsive, a
 
 <div align="center">
   
-  ### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House  
-  
+ ### 💡 "First, solve the problem. Then, write the code." — John Johnson
+ 
   ![Profile Views](https://komarev.com/ghpvc/?username=mehedihasanrafi205&color=blueviolet&style=for-the-badge) 
   
   **Thanks for visiting! Let's build something amazing together! 🚀**
